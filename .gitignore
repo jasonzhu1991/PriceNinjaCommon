@@ -1,0 +1,13 @@
+# Maven build artifacts
+target/*
+
+# Mac noises
+**/.DS_Store
+
+# Eclipse files
+.classpath
+.project
+.settings/*
+
+# Review board config file
+.reviewboardrc
